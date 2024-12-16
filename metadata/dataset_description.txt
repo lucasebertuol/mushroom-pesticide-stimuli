@@ -1,0 +1,37 @@
+Two datasets are available: temporal.txt and spectral.txt.
+The temporal.txt dataset contains the time domain signals (5001 samples for each signal.).
+The spectral.txt dataset contains the same signals as temporal.txt but in the 
+frequency domain (2500 samples for each signal).
+There are 27 signals representing 2 classes: 14 signals of herbicide and 13 
+signals of water.
+The temporal signals are in a matrix with dimensions 27x5001.
+The spectral signals are in a matrix with dimensions 27x2500.
+
+CLASS		LINHA
+HERBICIDE	1
+HERBICIDE	2
+HERBICIDE	3
+HERBICIDE	4
+HERBICIDE	5
+HERBICIDE	6
+HERBICIDE	7
+HERBICIDE	8
+HERBICIDE	9
+HERBICIDE	10
+HERBICIDE	11
+HERBICIDE	12
+HERBICIDE	13
+HERBICIDE	14
+WATER		15
+WATER		16
+WATER		17
+WATER		18
+WATER		19
+WATER		20
+WATER		21
+WATER		22
+WATER		23
+WATER		24
+WATER		25
+WATER		26
+WATER		27
